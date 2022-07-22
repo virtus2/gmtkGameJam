@@ -1,7 +1,7 @@
 # gmtkGameJam
 ### 게임 ViViGO
 - 요약: Unity, Windows PC 플랫폼의 2D 퍼즐 그리드 기반 게임 개발 프로젝트인 'ViViGO'에 프로그래머로 참여
-- 목적: Game Maker's Toolkit 게임잼 2022 출품
+- 목적: Game Maker's Toolkit 게임잼 2022 출품 및 협업 경험
 - 기간: 2022.07.16 ~ 2022.07.18
 - 인원 구성: 기획 1, 프로그래밍 2, 아트 4(프로그래밍으로 참여)
 - 주요 업무: [본인 작업 폴더](https://github.com/virtus2/gmtkGameJam/tree/main/Assets/virtus2)와 [ManagerScripts 폴더](https://github.com/virtus2/gmtkGameJam/tree/main/Assets/ManagerScripts)의 일부 C# 스크립트(GameManager의 일부, GameStage, InputManager, PathfindManager) Prefab, 씬 제작
