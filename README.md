@@ -1,5 +1,8 @@
-# gmtkGameJam
-### 게임 ViViGO
+# ViViGO
+***ViViGO***는 기획, 프로그래밍, 아트로 팀을 이뤄진 ***팀 만두***에 프로그래머로 참여해 개발한 게임입니다.  
+***팀 만두***는 [Game Maker's Toolkit Game Jam 2022](https://itch.io/jam/gmtk-jam-2022) 참가를 위해 구성되었으며, 게임 잼의 주제인 **Roll of the dice**에 맞춰 정해진 기간 내에 게임을 제작해 업로드하는 것이 목표입니다. 
+  
+## 세부 사항
 - 요약: Unity, Windows PC 플랫폼의 2D 퍼즐 그리드 기반 게임 개발 프로젝트인 'ViViGO'에 프로그래머로 참여
 - 목적: Game Maker's Toolkit 게임잼 2022 출품 및 협업 경험
 - 기간: 2022.07.16 ~ 2022.07.18
@@ -22,6 +25,22 @@
     - 플레이어가 이동 불가능한 장애물 오브젝트
   - UI 구현
     - 게임 씬의 UI 배치
+    
+## 실행 화면
+추가 예정
+    
+## 팀 구성
+- 기획
+  - 청운
+- 프로그래머
+  - [virtus2](https://github.com/virtus2)
+  - [BlackPenguin-cpu](https://github.com/BlackPenguin-cpu/)
+- 아트
+  - 너구리 (UI, 이펙트)
+  - 동박새 (배경, 타일이미지)
+  - 정훈 (스프라이트, 메인 일러스트)
+  - 봄 (캐릭터 디자인)
 
-### itch.io 링크(스크린샷 및 실행 가능 버전 포함)
+## itch.io 링크(스크린샷 및 실행 가능 버전 포함)
 [링크](https://corn97.itch.io/vivigo)
+
