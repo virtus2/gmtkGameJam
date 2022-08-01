@@ -27,7 +27,13 @@
     - 게임 씬의 UI 배치
     
 ## 실행 화면
-추가 예정
+![2](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/2.png)  
+![3](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/3.png)  
+![4](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/4.png)  
+
+## 플레이 영상(클릭 시 Youtube 이동)
+[![Youtube](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/1.png)](https://youtu.be/L-NIGxc5ThA)
+
     
 ## 팀 구성
 - 기획
