@@ -1,4 +1,5 @@
 # ViViGO
+![1](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/1.png)
 ***ViViGO***는 기획, 프로그래밍, 아트로 팀을 이뤄진 ***팀 만두***에 프로그래머로 참여해 개발한 게임입니다.  
 ***팀 만두***는 [Game Maker's Toolkit Game Jam 2022](https://itch.io/jam/gmtk-jam-2022) 참가를 위해 구성되었으며, 게임 잼의 주제인 **Roll of the dice**에 맞춰 정해진 기간 내에 게임을 제작해 업로드하는 것이 목표입니다. 
   
@@ -31,10 +32,9 @@
 ![3](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/3.png)  
 ![4](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/4.png)  
 
-## 플레이 영상(클릭 시 Youtube 이동)
-[![Youtube](https://github.com/virtus2/gmtkGameJam/blob/main/screenshots/1.png)](https://youtu.be/L-NIGxc5ThA)
+## 플레이 영상
+[Youtube](https://youtu.be/L-NIGxc5ThA)  
 
-    
 ## 팀 구성
 - 기획
   - 청운
