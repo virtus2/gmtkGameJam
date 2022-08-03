@@ -8,7 +8,7 @@
 - 목적: Game Maker's Toolkit 게임잼 2022 출품 및 협업 경험
 - 기간: 2022.07.16 ~ 2022.07.18
 - 인원 구성: 기획 1, 프로그래밍 2, 아트 4(프로그래밍으로 참여)
-- 주요 업무: [본인 작업 폴더](https://github.com/virtus2/gmtkGameJam/tree/main/Assets/virtus2)와 [ManagerScripts 폴더](https://github.com/virtus2/gmtkGameJam/tree/main/Assets/ManagerScripts)의 일부 C# 스크립트(GameManager의 일부, GameStage, InputManager, PathfindManager) Prefab, 씬 제작
+- 주요 업무: [본인 작업 폴더](https://github.com/virtus2/gmtkGameJam/tree/main/Assets/virtus2)와 [ManagerScripts 폴더](https://github.com/virtus2/gmtkGameJam/tree/main/Assets/ManagerScripts)의 일부 C# 스크립트(`GameManager.cs`의 일부, `GameStage.cs`, `InputManager.cs`, `PathfindManager.cs`) Prefab, 씬 제작
 - 상세 업무: 
   - Unity Tilemap 기반의 게임 진행 구현 
     - 빠른 프로토타이핑이 필요한 게임 잼의 특성 상 레벨 디자인의 용이함이 중요할 것이라 생각해 타일맵 사용
