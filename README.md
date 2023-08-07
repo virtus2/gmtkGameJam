@@ -37,7 +37,7 @@
 
 ## 팀 구성
 - 기획
-  - 청운
+   [Cornminator](https://github.com/cornminator)
 - 프로그래머
   - [virtus2](https://github.com/virtus2)
   - [BlackPenguin-cpu](https://github.com/BlackPenguin-cpu/)
