@@ -36,7 +36,7 @@
 [Youtube](https://youtu.be/L-NIGxc5ThA)  
 
 ## 팀 구성
-- 기획
+- 기획  
    [Cornminator](https://github.com/cornminator)
 - 프로그래머
   - [virtus2](https://github.com/virtus2)
